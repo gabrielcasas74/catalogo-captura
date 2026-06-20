@@ -1,0 +1,10 @@
+Nombre de organización: Fotos para Catalogo
+nombre del proyecto: Fotos para catologo
+contraseña : charrua@1930
+
+Proyect id: egjuncdgutsnlygefjcw
+member: gabo1974@gmail.com
+
+API URL: https://egjuncdgutsnlygefjcw.supabase.co/rest/v1/
+
+anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVnanVuY2RndXRzbmx5Z2VmamN3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE5MDg4OTgsImV4cCI6MjA5NzQ4NDg5OH0.Sy_sxRqEMlihEFJuP31oiYMm7q0W_DhiF88kL9RUjG4
